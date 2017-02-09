@@ -6,7 +6,7 @@ Please note that the bot will not work with servers where `g_humanplayers` param
 
 ### Installation
 
-Donwload and unpack the bot (or simply `git clone` it)
+Download and unpack the bot (or simply `git clone` it)
 
 Install packages from requirements.txt file.
 ```
@@ -14,7 +14,7 @@ $ cd q3
 $ pip install -r requirements.txt
 ```
 
-Modify `config/bot.conf` file and enter bot token, ID of your user or group, address and port of the server.
+Modify `config/bot.conf` file and enter bot token, ID of your user or group, address and port of the server.  
 Information on how to create new bot and obtain token is described [here](https://core.telegram.org/bots).
 
 ### Usage
